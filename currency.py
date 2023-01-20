@@ -2,7 +2,7 @@
 import json
 import requests
 # Токен для бота
-TOKEN = '5701407828:AAH9v3GJwFHyi1clOZZIUq9Kb1T73aKETuk'
+TOKEN = 'TOKEN'
 # Создаем пустой словарь для списка валют
 value = {}
 payload = {}
